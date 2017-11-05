@@ -26,6 +26,9 @@ Compile NPM dependencies
 npm start
 ```
 
+Installing redis-server
+https://redis.io/topics/quickstart
+
 Start redis server
 ```
 redis-server
