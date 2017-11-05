@@ -21,6 +21,11 @@ cd <path-to-project>/static/
 npm install
 ```
 
+Compile NPM dependencies
+```
+npm start
+```
+
 Start redis server
 ```
 redis-server
