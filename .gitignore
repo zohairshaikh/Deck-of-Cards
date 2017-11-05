@@ -1,1 +1,4 @@
 *.pyc
+
+/static/node_modules
+/static/assets

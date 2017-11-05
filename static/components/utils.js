@@ -28,7 +28,7 @@ export function newDeck() {
                 'suite': suites[i],
                 'color': suites_color[suites[i]]
             })
-
+            break
         }
     }
     // Randomizing array here
