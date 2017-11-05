@@ -1,5 +1,8 @@
 # Deck of Cards
 
+# DEMO
+http://35.198.205.110:5000/
+
 ## Setup
 
 Install the dependencies.
