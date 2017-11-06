@@ -32,7 +32,6 @@ export default class Card extends React.Component {
                 suite_uni = 4;
                 break
         }
-        console.log(values.id)
         this.state = {
             id: values.id,
             value: values.value,
