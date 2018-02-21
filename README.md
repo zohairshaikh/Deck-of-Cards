@@ -40,7 +40,7 @@ redis-server
 Export flask app to the environment variable
 
 ```
-export FLASK_APP=<path_to_app>/ocd_cards/ocd_cards.py 
+export FLASK_APP=<path_to_app>/ocd_cards.py 
 ```
 
 Run application
